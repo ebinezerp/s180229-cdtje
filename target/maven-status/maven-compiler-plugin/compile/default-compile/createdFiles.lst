@@ -1,0 +1,8 @@
+com\niit\shop\dao\ProductdaoImpl.class
+com\niit\shop\config\HibernateConfig.class
+com\niit\shop\dao\Productdao.class
+com\niit\shop\model\User.class
+com\niit\shop\dao\Userdao.class
+com\niit\shop\dao\UserdaoImpl.class
+com\niit\shop\model\Product.class
+com\niit\shop\controller\MainController.class
